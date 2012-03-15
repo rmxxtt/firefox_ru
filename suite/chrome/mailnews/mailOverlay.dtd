@@ -1,0 +1,7 @@
+<!ENTITY newMessageCmd.key "M">
+<!ENTITY newMessageCmd.label "Сообщение">
+<!ENTITY newMessageCmd.accesskey "б">
+<!ENTITY newContactCmd.label "Контакт…">
+<!ENTITY newContactCmd.accesskey "н">
+<!ENTITY printButton.label "Печать">
+<!ENTITY printButton.tooltip "Распечатать это сообщение">
